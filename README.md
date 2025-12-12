@@ -2,7 +2,7 @@
 
 ## Description
 A simple command-line interface (CLI) tool designed to fetch and display recent activity for a specified GitHub user directly in the terminal.
-This project was created as part of the Python Developer roadmap. You can find the original project idea here: https://roadmap.sh/projects/expense-tracker
+This project was created as part of the Python Developer roadmap. You can find the original project idea here: https://roadmap.sh/projects/github-user-activity
 
 ## Features
 - Fetch recent public events for any GitHub user.
